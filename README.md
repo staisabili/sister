@@ -1,2 +1,2 @@
 # sister
-sistem informasi terpadu STAI Sabili Bandung
+sistem informasi terpadu STAI Sabili
