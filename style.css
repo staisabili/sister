@@ -1,0 +1,64 @@
+.container {
+ border             : 20px double green;
+ width              : 600px;
+ height             : 500px;
+ margin             : auto;
+}
+
+.header {
+ border             : ;
+ width              : 600px;
+ height             : 150px;
+ margin             : auto;
+ text-align         : center;
+}
+
+.section {
+ border             : ;
+ width              : 600px;
+ height             : 250px;
+ margin             : auto;
+ text-align         : center;
+}
+
+.logo {
+ width              : 200px;
+ height             : 150px;
+ margin-left        : ;
+}
+
+.footer {
+ border             : ;
+ width              : 600px;
+ height             : 50px;
+ margin             : auto;
+ text-align         : center;
+}
+
+/*------------------------------------------*/
+a {
+  text-align   : center;
+  font-size    : 16px;
+  font-family  : sans-serif;
+  color        : ;
+  padding      : 10px 20px;
+  border       : 2px solid orange;
+  cursor       : pointer;
+  border-radius: 10px;
+  background   : linear-gradient(to top, green, lime);
+  box-shadow   : 5px 5px 3px rgba(0,0,0,0.5);
+  user-select  : none;
+  text-decoration: none;
+  transition         : 1s;
+}
+
+
+a:hover {
+ background         : linear-gradient(to bottom, green, lime);
+ transition         : 1s;
+}
+
+a:active {
+ color              : orange;
+}
+
